@@ -1,0 +1,9 @@
+# Python para Data Science
+
+Con el avance de la tecnología, la cantidad de datos disponibles tuvo una explosión exponencial. Es así que el área de Ciencia de Datos ganó relevancia para auxiliar empresas y profesionales que necesitan realizar análisis avanzados para tomar mejores decisiones. En la actualidad la principal herramienta utilizada por científicos de datos en todo el mundo es el lenguaje Python, con su simplicidad, versatilidad y crecimiento en diversos segmentos, Python se ha consolidado como una de los principales lenguajes de programación en la actualidad.
+
+### ¿POR QUÉ APRENDER PYTHON?
+El lenguaje Python está entre los 5 lenguajes más populares en el mundo, según una encuesta de RedMonk. Esa popularidad se debe principalmente por su característica de exigir pocas líneas de código y permitir una lectura fácil. También es importante destacar su hegemonía cuando el asunto se trata de Ciencia de Datos. En el diverso y extenso mundo de datos , Python se destaca en diversos frentes como ser: análisis de datos, computación gráfica, procesamiento de Big Data, computación científica y en las técnicas de Machine Learning y consecuentemente en Deep Learning.
+
+###   ¿QUÉ ES LO QUE VAS APRENDER EN ESTA FORMACIÓN?
+En esta formación vas a aprender de una forma práctica y didáctica la versión 3 de Python y lo principal con un enfoque total en Ciencia de Datos. Si tienes poco o nada de conocimiento en programación, no hay problema, preparamos cursos para aquellos que están dando sus primeros pasos con el lenguaje. Y claro también en esta formación encontrarás contenido más avanzado donde podrás crear tu primer modelo de Machine Learning, vas a conocer las principales bibliotecas para el área de ciencia de datos como ser: Pandas, Matplotlib, Seaborn y SKLearn y tener contacto con diversas frentes del área de ciencia de datos.
